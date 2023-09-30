@@ -32,7 +32,7 @@ Project 3: Data Visualization Dashboard
 ### 📖 Education:
 
 - Currently pursuing a Post Graduation Program in Data Science & Analytics
-- BBA
+- B.com (computer)
 
 ### 📫 Contact:
 
